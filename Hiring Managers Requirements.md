@@ -1,2 +1,3 @@
 -- Hiring Managers are NOT looking for: --
 - Skilled developer in specific langauge or framework.
+- Super hero in coding.
