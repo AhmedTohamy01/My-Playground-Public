@@ -9,4 +9,4 @@
 
 # Hiring Managers are  looking for:
 - They are NOT looking for a Specific skill, langaue or framework , It doesn't mean aything to them.   
-
+- 
