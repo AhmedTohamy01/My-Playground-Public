@@ -12,4 +12,5 @@
 - They look for a long-term hired. has problem-solving skill, and they think 
   if you are avlauble asset they can teach you framework or langauge.
 - They look for someone who can work with. 
+- They look for someone who can solve coding challnges in simple, understandable way. 
 
