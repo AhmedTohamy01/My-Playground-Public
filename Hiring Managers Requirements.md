@@ -9,4 +9,6 @@
 
 # Hiring Managers are  looking for:
 - They are NOT looking for a Specific skill, langaue or framework , It doesn't mean aything to them.   
-- 
+- They look for a long-term hired. has problem-solving skill, and they think 
+  if you are avlauble asset they can teach you framework or langauge.
+
