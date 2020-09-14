@@ -22,3 +22,5 @@
 - Focus on specific langauge or framework.
 
 - Apply for a lot of jobs online.
+
+- Ignore jobs that is not qualified to.
