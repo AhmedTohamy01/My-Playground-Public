@@ -19,3 +19,5 @@
 
 # What people think they should do ?
 
+- Focus on specific langauge or framework.
+
