@@ -27,3 +27,4 @@
 
 - Practice more coding challenges.
 
+- Show certificates.
