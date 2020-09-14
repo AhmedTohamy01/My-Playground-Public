@@ -1,6 +1,6 @@
 ### What Hiring Managers Need ? ###
 
-# Hiring Managers are NOT looking for 
+# What people thing that Hiring Managers are looking for ?
 - Skilled developer in specific langauge or framework.
 - Super hero in coding.
 - Solve coding challenges in most smart way, less code.
