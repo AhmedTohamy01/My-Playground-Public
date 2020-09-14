@@ -21,3 +21,4 @@
 
 - Focus on specific langauge or framework.
 
+- Apply for a lot of jobs online.
