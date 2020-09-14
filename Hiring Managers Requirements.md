@@ -25,4 +25,5 @@
 
 - Ignore jobs that is not qualified to.
 
-- Practive more coding challenges.
+- Practice more coding challenges.
+
