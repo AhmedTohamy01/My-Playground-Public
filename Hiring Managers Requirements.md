@@ -14,3 +14,6 @@
 - They look for someone who can work with. 
 - They look for someone who can solve coding challnges in simple, understandable way. 
 
+
+### What People Think ? ###
+
