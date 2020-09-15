@@ -12,3 +12,4 @@ Many companies have budgets for employees to do job development training or prof
 * Learn about cultural differences in the workplace and the expectations of global tech companies
 * Get better at networking
 * Have the chance to work on writing 
+* And much, much more 
