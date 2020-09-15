@@ -9,3 +9,4 @@ Many companies have budgets for employees to do job development training or prof
 * Create a portfolio to use when applying for jobs
 * Learn problem-solving, conflict management, and other key workplace skills
 * Gain confidence in yourself as a learner and colleague
+* Learn about cultural differences in the workplace and the expectations of global tech companies
