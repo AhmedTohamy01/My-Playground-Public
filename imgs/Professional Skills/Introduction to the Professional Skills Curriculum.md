@@ -11,3 +11,4 @@ Many companies have budgets for employees to do job development training or prof
 * Gain confidence in yourself as a learner and colleague
 * Learn about cultural differences in the workplace and the expectations of global tech companies
 * Get better at networking
+* Have the chance to work on writing 
