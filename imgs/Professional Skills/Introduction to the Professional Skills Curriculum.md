@@ -17,3 +17,5 @@ Many companies have budgets for employees to do job development training or prof
 ***Professional Skills Curriculum Topics***
 The lessons included in the Professional Skills Curriculum are designed with Microverse students in mind. Many come straight from problems that have arisen for students, questions they have had, and specific needs they have at the job application stage. To ensure the solo curriculum meets the needs of students, new content is added when needed.
 
+A sampling of current lessons in the Professional Skills Curriculum includes:
+
