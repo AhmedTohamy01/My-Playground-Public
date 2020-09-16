@@ -23,3 +23,6 @@ A sampling of current lessons in the Professional Skills Curriculum includes:
 * How to Give Positive and Constructive Feedback
 * How to Look Professional Online
 * Freelancing Simulations
+
+We suggest you start at the beginning and work through the lessons in order. However, if you find yourself needing support on a particular skill (such as working through conflict) you can jump to this lesson first. The Freelancing Simulations must be completed in order.
+
