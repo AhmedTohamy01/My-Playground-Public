@@ -19,3 +19,7 @@ The lessons included in the Professional Skills Curriculum are designed with Mic
 
 A sampling of current lessons in the Professional Skills Curriculum includes:
 
+* Working Through Conflict with Coding Partners, TSEs and Future Colleagues
+* How to Give Positive and Constructive Feedback
+* How to Look Professional Online
+* Freelancing Simulations
