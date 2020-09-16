@@ -27,3 +27,6 @@ A sampling of current lessons in the Professional Skills Curriculum includes:
 We suggest you start at the beginning and work through the lessons in order. However, if you find yourself needing support on a particular skill (such as working through conflict) you can jump to this lesson first. The Freelancing Simulations must be completed in order.
 
 ***The Professional Skills Curriculum and Career Prep***
+Although the Professional Skills Curriculum helps you get ready for your future job, it is important to understand that it is not Career Prep. The Career Prep Curriculum is a separate set of activities specifically designed to support you during the time you are preparing to apply for jobs, interviewing, and negotiating offers. You will move on to that curriculum after you have completed the Technical Curriculum, this Professional Skills Curriculum, and your coding challenges. 
+
+
