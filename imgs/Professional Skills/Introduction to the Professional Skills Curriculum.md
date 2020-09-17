@@ -37,4 +37,6 @@ Many skills you will work on in the Professional Skills Curriculum will help pre
 
 ***How the Professional Skills Curriculum Works at Microverse***
 
+We have designed the Professional Skills Curriculum to take place during times in your studies throughout the Technical Curriculum when you find yourself with extra time. This might be when you are waiting to be re-paired, when you are ahead of your partner and waiting for them to finish a project, or when your partner is sick or has a local holiday. 
+
 
