@@ -45,6 +45,6 @@ To complete the Microverse Professional Skills Curriculum, you will need to:
 * Submit all projects for the lessons you've completed.
 * Complete all lessons before you join Interview Prep and get ready for Job Searching.
 
-When you finish the Microverse Professional Skills Curriculum, you will have a solid grasp of the key soft skills needed to succeed in any job. You will have many chances to practice them with your partner, Standup team, mentors, TSEs and others. 
+When you finish the Microverse Professional Skills Curriculum, you will have a solid grasp of the key soft skills needed to succeed in any job. You will have many chances to practice them with your partner, Standup team, mentors, TSEs and others. You will have a strong portfolio of work that showcases your skills. And you will know where you are strongest and where you need to improve.
 
 
