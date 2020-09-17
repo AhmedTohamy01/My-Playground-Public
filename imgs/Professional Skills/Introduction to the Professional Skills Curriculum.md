@@ -33,4 +33,8 @@ Many skills you will work on in the Professional Skills Curriculum will help pre
 
 
 
+# Read:How does the Professional Skills Curriculum Work?
+
+***How the Professional Skills Curriculum Works at Microverse***
+
 
