@@ -42,6 +42,7 @@ We have designed the Professional Skills Curriculum to take place during times i
 To complete the Microverse Professional Skills Curriculum, you will need to:
 
 * Spend the needed time working through each lesson. For some lessons this will be 1-2 hours, for others it will be a day or two of work.
+* Submit all projects for the lessons you've completed.
 
 
 
