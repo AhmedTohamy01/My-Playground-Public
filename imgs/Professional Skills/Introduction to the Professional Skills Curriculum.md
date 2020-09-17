@@ -45,5 +45,6 @@ To complete the Microverse Professional Skills Curriculum, you will need to:
 * Submit all projects for the lessons you've completed.
 * Complete all lessons before you join Interview Prep and get ready for Job Searching.
 
+When you finish the Microverse Professional Skills Curriculum, 
 
 
