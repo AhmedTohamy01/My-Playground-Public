@@ -11,4 +11,5 @@ As a Microverse student, you are working hard every day to learn the skills you 
 - point 4
 - point 5
 - point 6
+- point 7
 
