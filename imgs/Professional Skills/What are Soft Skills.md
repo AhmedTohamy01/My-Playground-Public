@@ -65,3 +65,10 @@ To complete this lesson, make a copy of this Google Doc, and answer the question
 
 
 # To-Do:How to Use Google Calendar to Get (And Stay) Organized and Effective!
+
+The first and most important step of managing your Google Calendar is this: just use it. Constantly adding meetings and time blocks to your calendar can feel like a waste of time--after all, most of us tend to rely on our own memories. But we’re all humans, and humans forget things sometimes. We miss deadlines, we forget about important tasks, we mix up time zones and accidentally show up at meetings an hour early (or worse: an hour late). 
+
+Managing a Google Calendar can take 10 minutes out of your day, yes--time that you may want to spend coding or relaxing or just grabbing a cup of coffee. It can be boring and repetitive but like many boring, repetitive tasks, it is absolutely necessary. Those 10 minutes of organization can be the difference between you missing an interview or not, or between meeting a work deadline and forgetting it. Get in the habit right now of using your Google Calendar, and continue using it.
+
+Using it is necessary. But there are tips and tricks you can take advantage of that will make using your Google Calendar organization simpler and even more useful. We’ll start with basic organizational strategies, and then discuss some of the cool features Google Calendar offers--features that will hopefully allow you to take control of your schedules, rather than having your schedules control you!
+
