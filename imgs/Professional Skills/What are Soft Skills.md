@@ -18,3 +18,5 @@ At Microverse, we are working every day to build an excellent technical learning
 
 
 ***Improving Soft Skills Takes Practice***
+As you work through the Professional Skills Curriculum lessons, remember that soft skills get better with awareness and practice. No matter what stage of our career, we all have areas we can improve on. Perhaps you are a good communicator, but struggle with time management. Maybe you are the most punctual person ever, but have a hard time speaking your opinions. With each lesson in the Professional Skills Curriculum, we will help you learn about your strengths and areas of weakness and give you lots of chances to practice and improve.
+
