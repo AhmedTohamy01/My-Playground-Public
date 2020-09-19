@@ -76,3 +76,11 @@ Using it is necessary. But there are tips and tricks you can take advantage of t
 Before you start diving into tips and tricks, make sure that you fully understand how to use Google Calendar’s core features: scheduling, creating calendars, setting events to repeat, etc. This video https://www.youtube.com/watch?v=1EjJ55BODn0 offers a clear, thorough tutorial on these primary features. If you already feel very confident in your knowledge of Google Calendar, feel free to skip it, but if you would like a refresher (or if you’re not 100% sure how to manage your calendar), we strongly recommend it.
 
 ***Time Blocking: How to Use Google Calendar to Enforce Our Favorite Time Management Strategy***
+
+If you’ve ever struggled with time management and done some research online, you may have heard of time blocking. Time blocking is a simple strategy: rather than creating “to-do” lists and checking things off, you’ll instead “block” off specific timeframes on your calendar for specific tasks. Then you stick to those time blocks, even if it means having to pause a task before you’re done in order to move on to the next event.
+
+Microverse already encourages the use of time blocking: you can find your suggested schedule on the student dashboard, and the peer-programming aspect of Microverse helps all students stick to that schedule. As interview prep students and job searchers (and later on as full-time developers), however, you will have to independently structure your own day, and time-blocking offers a huge advantage; in the article linked above, one author actually estimated that time-blocking increased his productivity by 50%.
+
+
+Here’s an example of what a job searching student’s Google Calendar might look like:
+
