@@ -41,3 +41,18 @@ Jot your ideas down somewhere; you will use them for the assignment at the end o
 
 
 ***What are your strengths and weaknesses?***
+
+An important step to begin improving soft skills is to be comfortable looking at our own strengths and weaknesses. Self awareness and understanding are essential for learning to work better with others. As an exercise in understanding yourself better, please complete The 16 Personalities Test: 
+
+  
+
+* Link to the 16 Personalities Test
+https://www.16personalities.com/
+
+* Expect to spend about 10 minutes answering the questions
+* If English is your second language, we suggest having a page open to a dictionary or translation page in  case there are words you don't know.
+* When you are finished:
+  - Please take a screenshot of the results page showing what type of personality you are or email yourself the results
+  - Follow the "Start Reading" link
+  - Look at the "Explore Your Type" menu on the left of the page and find "Strengths and Weaknesses"
+  - Read about the strengths and weaknesses of your personality type  
