@@ -24,4 +24,8 @@ Task #1: Soft Skills Reading
 To begin thinking about where you are strongest and where you can improve your soft skills, read the following articles:
 
 * The Skill You Probably Need to Brush up on for your Engineering Career 
+https://www.siliconrepublic.com/careers/engineering-soft-skills-teamwork-collaboration
+
 * How to Develop and Train for Soft Skills in the Workplace (you can also listen to this article read out loud as you read - great for working on English at the same time!): 
+https://elearningindustry.com/soft-skills-in-the-workplace-develop-train
+
