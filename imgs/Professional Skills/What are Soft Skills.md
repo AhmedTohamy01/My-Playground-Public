@@ -82,5 +82,12 @@ If you’ve ever struggled with time management and done some research online, y
 Microverse already encourages the use of time blocking: you can find your suggested schedule on the student dashboard, and the peer-programming aspect of Microverse helps all students stick to that schedule. As interview prep students and job searchers (and later on as full-time developers), however, you will have to independently structure your own day, and time-blocking offers a huge advantage; in the article linked above, one author actually estimated that time-blocking increased his productivity by 50%.
 
 
-Here’s an example of what a job searching student’s Google Calendar might look like:
+Here’s an example of what a job searching student’s Google Calendar might look like: <img>
 
+The key to time blocking is sticking to it. In the example above, a student might dedicate the first hour of their day to “catching up--” answering emails, responding to interview requests, completing a few tasks they didn’t get the chance to finish yesterday. However, as soon as the clock hits 9 o’clock, it’s time to search for job applications, even if they didn’t finish catching up on emails or messages. That student might then spend an hour bookmarking job postings. Then, as soon as it’s 10 o’clock, the student will stop searching, and start working on their applications.
+
+
+Time blocking keeps one task from taking up your entire day and preventing you from working on other, equally important tasks. It also, however, allows for flexibility.
+
+
+***Google Calendar lets you schedule multiple events in the same time period. That means you can be flexible.***
