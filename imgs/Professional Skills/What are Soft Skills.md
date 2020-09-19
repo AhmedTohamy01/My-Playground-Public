@@ -20,3 +20,8 @@ At Microverse, we are working every day to build an excellent technical learning
 ***Improving Soft Skills Takes Practice***
 As you work through the Professional Skills Curriculum lessons, remember that soft skills get better with awareness and practice. No matter what stage of our career, we all have areas we can improve on. Perhaps you are a good communicator, but struggle with time management. Maybe you are the most punctual person ever, but have a hard time speaking your opinions. With each lesson in the Professional Skills Curriculum, we will help you learn about your strengths and areas of weakness and give you lots of chances to practice and improve.
 
+Task #1: Soft Skills Reading
+To begin thinking about where you are strongest and where you can improve your soft skills, read the following articles:
+
+* The Skill You Probably Need to Brush up on for your Engineering Career 
+* How to Develop and Train for Soft Skills in the Workplace (you can also listen to this article read out loud as you read - great for working on English at the same time!): 
