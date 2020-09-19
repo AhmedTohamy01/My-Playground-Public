@@ -75,3 +75,4 @@ Using it is necessary. But there are tips and tricks you can take advantage of t
 ***Before You Begin***
 Before you start diving into tips and tricks, make sure that you fully understand how to use Google Calendar’s core features: scheduling, creating calendars, setting events to repeat, etc. This video https://www.youtube.com/watch?v=1EjJ55BODn0 offers a clear, thorough tutorial on these primary features. If you already feel very confident in your knowledge of Google Calendar, feel free to skip it, but if you would like a refresher (or if you’re not 100% sure how to manage your calendar), we strongly recommend it.
 
+***Time Blocking: How to Use Google Calendar to Enforce Our Favorite Time Management Strategy***
