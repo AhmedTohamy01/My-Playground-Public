@@ -29,3 +29,15 @@ https://www.siliconrepublic.com/careers/engineering-soft-skills-teamwork-collabo
 * How to Develop and Train for Soft Skills in the Workplace (you can also listen to this article read out loud as you read - great for working on English at the same time!): 
 https://elearningindustry.com/soft-skills-in-the-workplace-develop-train
 
+
+Task #2: Reflection
+Now, thinking about what you just read, spend 3-5 minutes reflecting on your own soft skills: 
+
+* What are your strongest soft skills? 
+* Where do you think you need to improve your soft skills? 
+* What is most difficult for you when working with others in class or at work?
+
+Jot your ideas down somewhere; you will use them for the assignment at the end of this lesson.
+
+
+***What are your strengths and weaknesses?***
