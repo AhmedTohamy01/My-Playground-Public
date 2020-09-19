@@ -14,3 +14,7 @@ In general, soft skills are attitudes and habits that shape how you work, alone 
 * Organization
 
 
+At Microverse, we are working every day to build an excellent technical learning experience, but coding languages are not enough; we want you to finish Microverse with excellent soft skills as well. 
+
+
+***Improving Soft Skills Takes Practice***
