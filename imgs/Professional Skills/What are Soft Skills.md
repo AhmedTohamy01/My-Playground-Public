@@ -62,3 +62,6 @@ https://www.16personalities.com/
 To complete this lesson, make a copy of this Google Doc, and answer the questions. Then submit this document in the form below, along with an attachment of the screenshot from your 16 personalities test results.
 
 ﻿For the first three questions, you may find it helpful to refer back to the list of soft skills that you made earlier in the lesson. 
+
+
+# To-Do:How to Use Google Calendar to Get (And Stay) Organized and Effective!
