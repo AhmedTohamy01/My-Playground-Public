@@ -72,3 +72,6 @@ Managing a Google Calendar can take 10 minutes out of your day, yes--time that y
 
 Using it is necessary. But there are tips and tricks you can take advantage of that will make using your Google Calendar organization simpler and even more useful. We’ll start with basic organizational strategies, and then discuss some of the cool features Google Calendar offers--features that will hopefully allow you to take control of your schedules, rather than having your schedules control you!
 
+***Before You Begin***
+Before you start diving into tips and tricks, make sure that you fully understand how to use Google Calendar’s core features: scheduling, creating calendars, setting events to repeat, etc. This video https://www.youtube.com/watch?v=1EjJ55BODn0 offers a clear, thorough tutorial on these primary features. If you already feel very confident in your knowledge of Google Calendar, feel free to skip it, but if you would like a refresher (or if you’re not 100% sure how to manage your calendar), we strongly recommend it.
+
