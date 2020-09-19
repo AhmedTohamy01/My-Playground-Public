@@ -56,3 +56,9 @@ https://www.16personalities.com/
   - Follow the "Start Reading" link
   - Look at the "Explore Your Type" menu on the left of the page and find "Strengths and Weaknesses"
   - Read about the strengths and weaknesses of your personality type  
+
+
+***Assignment: Your Strengths and Weaknesses***
+To complete this lesson, make a copy of this Google Doc, and answer the questions. Then submit this document in the form below, along with an attachment of the screenshot from your 16 personalities test results.
+
+﻿For the first three questions, you may find it helpful to refer back to the list of soft skills that you made earlier in the lesson. 
