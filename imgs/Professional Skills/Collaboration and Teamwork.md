@@ -29,3 +29,13 @@ How do you feel about it now?
 
 Keep your list of conflicts and any notes you've made about them so you can refer to them later in this lesson.
 
+
+Task #2: Conflict Reading
+Now, with the problems you’ve faced in mind, read the following 3 articles about working through conflict on teams:
+
+https://remote.co/work-through-conflict-on-remote-teams/
+
+https://www.bustle.com/articles/103025-8-ways-to-handle-a-conflict-with-a-coworker
+
+https://hbr.org/2019/05/what-to-do-after-an-uncomfortable-conversation-with-a-coworker
+
