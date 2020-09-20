@@ -318,6 +318,9 @@ Goal 3: This week I will start the React Calculator project by Monday and I will
 
 More resources on SMART goals:
 
+https://www.mindtools.com/pages/article/smart-goals.html
+
+https://www.youtube.com/watch?v=PCRSVRD2EAk
 
 
 
