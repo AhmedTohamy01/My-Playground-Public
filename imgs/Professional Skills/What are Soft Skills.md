@@ -101,4 +101,12 @@ Let’s use the example above of a job searching student. This job searching stu
 
 ***Google Calendar also lets you create multiple calendars***
 
+Double-booking can be very useful, and there’s nothing wrong with managing your calendar in this way. If you want to get even more organized, however, Google Calendar also offers you the ability to create multiple calendars. In other words, you can have a calendar for daily tasks, another calendar specifically to manage interviews, a third calendar to manage appointments and errands--if multiple calendars would make your organization simpler for you, Google offers that ability! Learn how to use Google Calendars with the video below:
+
+https://www.youtube.com/watch?v=soy2mPEVLcY&feature=emb_logo
+
+
+That’s a basic overview of how to use time blocking and Google Calendar’s flexible “double-booking” and multi-calendar features. However, those are just the basics. Now let’s discuss tips and tricks to make your Calendar work for you.
+
+
 
