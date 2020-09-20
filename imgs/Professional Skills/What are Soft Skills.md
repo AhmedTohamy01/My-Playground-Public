@@ -108,5 +108,14 @@ https://www.youtube.com/watch?v=soy2mPEVLcY&feature=emb_logo
 
 That’s a basic overview of how to use time blocking and Google Calendar’s flexible “double-booking” and multi-calendar features. However, those are just the basics. Now let’s discuss tips and tricks to make your Calendar work for you.
 
+***Add a Secondary Time Zone***
+
+As remote students (and potentially as future developers part of remote teams), you’ll probably be meeting with people from multiple time zones. The last thing you want to do is miss a meeting because you did the time conversion incorrectly. Google Calendar allows you to add a second time zone to your calendar--that way, you’ll never be confused by time zones again.
+
+Watch the video below to learn how to do so!
+
+https://www.youtube.com/watch?v=2q72abY_5D0&feature=emb_logo
+
+
 
 
