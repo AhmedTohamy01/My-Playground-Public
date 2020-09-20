@@ -55,3 +55,28 @@ As you think about conflict in your Microverse culture—or in a future, global 
 
 You can save these questions for future reference. They may be useful for times you and your coding partner disagree, or a time when you have another conflict.
 
+
+***Assignment: Message to Resolve a Conflict***
+
+To complete this lesson on conflict, choose 1 of the situations from the list you made in Task #1. Using the articles as reference for ideas, write a professional email to the person (your coding partner, TSE, staff at Microverse, or anyone else). Important: Don’t worry about perfection, and use a fake name if you prefer! The point here is to practice communicating about conflict. 
+
+
+When you are done and have a draft message, look it over and ask yourself the following questions:
+
+
+Did you describe the facts or what happened/is happening in a neutral way?
+Did you state your feelings about it?
+Did you ask for the other person’s perspective? 
+Did you suggest a next step?
+Is the tone positive?
+Did you check to make sure writing is clear and free of grammatical errors? (You can use Grammarly or another similar tool, or ask a friend.)
+
+Make any edits or changes to your writing so the message is as clear as possible.
+
+Suggestion: If the situation is still an active conflict, you can use your message to communicate with the person involved. If the conflict is big, we suggest having a conversation about it over video as well. Remember, your Student Success team is always available to help you work through conflict as well.
+
+
+In order to complete this lesson, please put your message into a Google Doc, and submit it using the form below. Make sure you submit the shareable link, using the "Share" feature and that your permissions are set so anyone with a link can view.
+
+
+# To-Do:How to Give Feedback (Project: Giving and Receiving Feedback)
