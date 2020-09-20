@@ -160,6 +160,28 @@ https://www.youtube.com/watch?v=ui9iKmFfij4&feature=emb_logo
 
 ***Notifications***
 
+We all lose track of time sometimes, even when we’re actively trying to be organized. Luckily, Google Calendar allows you to modify event notifications, giving you the option to receive either emails or popups to let you know 10 minutes, 30 minutes, or even hours or days before an event is scheduled to occur. Not sure how? Here’s a video with detailed instructions: 
+
+
+https://www.youtube.com/watch?v=asxtTNlMNqE&feature=emb_logo
+
+
+***Automatically add Zoom links to your Google Calendar***
+
+If you’ve ever stared at a calendar event and had no idea where you all were actually meeting, don’t worry! The Zoom add-on is here to prevent that from ever happening again. Google Calendar allows you to add a Zoom integration to your calendar and then create a video conferencing link each time you schedule a new meeting. Watch the video below for a short how-to:
+
+https://www.youtube.com/watch?v=Qhculbcktuw&feature=emb_logo
+
+
+***Add Google Hangouts***
+
+Zoom is one of the most widely-used video conferencing apps in existence, but some people you speak to may not have it downloaded. In that case, Google Hangouts can be a great second-choice! This process is even easier than Zoom’s. Check out instructions here: 
+
+
+https://www.youtube.com/watch?v=9mBN5QCEJds&feature=emb_logo
+
+
+
 
 
 
