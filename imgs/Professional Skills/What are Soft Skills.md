@@ -91,3 +91,11 @@ Time blocking keeps one task from taking up your entire day and preventing you f
 
 
 ***Google Calendar lets you schedule multiple events in the same time period. That means you can be flexible.***
+
+Most of us follow a pretty similar schedule on a day to day basis. Most of us also know, though, that exceptions occur. Sometimes we have doctor’s appointments. Sometimes our whole town suffers a power failure. And sometimes we schedule interviews!
+
+Luckily, Google Calendar knows this, and it allows you to “double-book” time slots--that way, you can add one-time-only events without having to re-do your entire schedule.
+
+Let’s use the example above of a job searching student. This job searching student normally spends two hours between 1:00 PM and 3:00 PM working on coding and project improvements. However, today, the student has a one-hour interview scheduled at 2:00 PM! Instead of deleting their normal “Coding/Project Improvement” event, the student can instead schedule a new event on top of it! Their updated schedule will look like this:
+
+
