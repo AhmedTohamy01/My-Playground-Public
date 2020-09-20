@@ -182,6 +182,11 @@ https://www.youtube.com/watch?v=9mBN5QCEJds&feature=emb_logo
 
 
 
+# To-Do:Setting Goals
+
+***Why do we set goals?***
+
+
 
 
 
