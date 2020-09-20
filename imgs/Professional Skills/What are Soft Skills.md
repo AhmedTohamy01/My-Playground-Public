@@ -136,6 +136,17 @@ https://www.youtube.com/watch?v=q6rG0CyLeFc&feature=emb_logo
 Going back and forth between your email and your calendar can be frustrating and time-consuming. Thankfully, Google offers the ability to turn your emails into calendar events with the click of a button. You may still need to edit some of the event information, such as the date/time, but this feature can be incredibly helpful, and can simplify your organization processes immensely.
 
 
+https://www.youtube.com/watch?v=pn6460GnooI&feature=emb_logo
+
+
+***Get Emails With Your Daily Agendas***
+
+Google Calendar includes the ability to automatically receive a daily email containing your agenda, and unless you’re the sort of person who constantly checks their calendar, this can be incredibly useful for you--especially if some of the events on your calendar are in-person. Watch the video below for instructions: 
+
+https://www.youtube.com/watch?v=hovfE2I60hM&feature=emb_logo
+
+
+
 
 
 
