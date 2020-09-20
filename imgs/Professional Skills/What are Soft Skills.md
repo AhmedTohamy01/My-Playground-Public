@@ -117,5 +117,10 @@ Watch the video below to learn how to do so!
 https://www.youtube.com/watch?v=2q72abY_5D0&feature=emb_logo
 
 
+***Add a World Clock to Check Multiple Time Zones***
+
+Google Calendar lets you add a second time zone, but if you constantly find yourself Googling “What time is it in [City],” you’ll probably need something more. In that case, you can add a World Clock to your Calendar! This is one of the neatest tricks that Google Calendar offers. You’ll find a very thorough, easy-to-follow guide here: 
+
+https://www.youtube.com/watch?v=ico2Pnbk0bw&feature=emb_logo
 
 
