@@ -146,6 +146,19 @@ Google Calendar includes the ability to automatically receive a daily email cont
 https://www.youtube.com/watch?v=hovfE2I60hM&feature=emb_logo
 
 
+***Set up Working Hours***
+
+When you’re working in a remote/distributed team, everyone’s going to have slightly different working hours. This is great for flexibility, but it’s less great when a coworker keeps adding 5:00 AM meetings on your calendar. Adding your working hours to your calendar will help prevent this--anytime someone attempts to schedule a meeting outside of those working hours, they’ll be given an alert that lets them know you aren’t working at that time. Need instructions? Find them here: 
+
+https://www.youtube.com/watch?v=p1UJdgMVZYE&feature=emb_logo
+
+And if you want to see how this will look for your coworkers, you can watch the implementation here: 
+
+
+https://www.youtube.com/watch?v=ui9iKmFfij4&feature=emb_logo
+
+
+***Notifications***
 
 
 
