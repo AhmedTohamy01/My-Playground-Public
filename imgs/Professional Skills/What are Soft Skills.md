@@ -186,6 +186,138 @@ https://www.youtube.com/watch?v=9mBN5QCEJds&feature=emb_logo
 
 ***Why do we set goals?***
 
+Goals help us get work done more efficiently and productively. When you start your day you will be much more effective, productive, and motivated when you have a clear idea of what you want to accomplish.
+
+
+
+A second purpose of goals is to turn big tasks into smaller, more attainable goals.
+
+The goal of "Finishing Microverse" can seem much more overwhelming compared to "finishing the first HTML part of the curriculum."
+
+
+
+Bigger, long term goals, can seem harder and more overwhelming that smaller short term goals. That is why we ask you to make your goals as small as possible.
+
+
+
+So if your goal from your Weekly Retrospective is to "Getting started the React Curriculum". You should use your daily goals to break this into smaller tasks and define what you want to achieve per day. So your goal for Monday can be getting through "Basic Data types" part of the curriculum and your goal for Tuesday can be getting through the "Variables" part of the curriculum
+
+
+
+Setting goals requires you to plan your days and weeks ahead. So you should always take a moment to look at the materials that is expected from you so that you know what is ahead of you and you and you can plan your days.
+
+
+
+How do I decide what goals I want to set?
+
+When you start a new part of the curriculum, a project, a professional skill or any other tasks, take the time to take have an overview at what you are trying to achieve, so that you can decide on the steps you need to take and plan these steps over a certain time frame.
+
+Each week you should have an idea of the specific task that you are trying to achieve. Those tasks should be split into daily steps, which will be your daily goals.
+
+
+
+So how do I set goals?
+
+SMART Goals.
+
+SMART method will help you write your goals in a way that you will be more likely to achieve that goal. SMART stands for Specific, Measurable, Attainable, Relevant and Timely. 
+
+
+
+While all aspects of SMART goals are equally important, right now we will only start with the first three aspects and you will learn about the other two later. Today we will look at the "S", "A" and "T". 
+
+
+
+S: Specific. Your goal should be specific enough so you know exactly what you want to achieve. 
+
+
+
+Examples:
+
+Not specific: I will start the React Calculator project.
+
+Specific: I will finish milestone one of the React Calculator project.
+
+
+
+Not Specific: I will practice English.
+
+Specific: I will do three Duolingo exercises to practice my English skills. 
+
+
+
+Not Specific: Do Professional skills
+
+Specific: I will complete the "Writing a professional Resume and LinkedIn" for review.
+
+
+
+Not specific: I will be more motivated this week.
+
+Specific: I will write down three reasons why I want to be a software developer before I start my day to increase my level of motivation. 
+
+
+
+A: Attainable. Your goals should be attainable and realistic. We often over estimate what we will be able to achieve in the coming weeks and how much time we will have to work on the curriculum, so this step is important to reflect on that. Some days we might need to spend more than 8 hours on a project, as we weren't able to finish in time. In that case, we should include a short plan of how to deal with other responsibilities as this helps us think about if what we want to achieve is really possible.
+
+
+
+Examples:
+
+Not achievable: I will study 15 hours per day from now going forward!
+
+Achievable: I will study 3 hours longer per day as I did not finish as planned. I will communicate with my family members or other people at my house to complete house responsibilities at a later time.
+
+
+
+Not achievable: I will become good at English.
+
+Achievable: I will try to improve my English by practicing 15 minutes on Duolingo per day.
+
+
+
+Not achievable: I will work 12 hours straight on the Capstone project and finish the project early.
+
+Achievable: I will plan to work 7 hours on the Capstone project on Monday take breaks to make sure my brain is working properly to finish such a difficult project.
+
+
+
+T: Timely. A goal should always include a time because this will give you more structure. Adding a time brings clarity on when you should achieve what. You will know clearly when to start and when to finish.
+
+
+
+Examples: 
+
+Not timely: I will work on Capstone Project this week.
+
+Timely: I will start the Capstone project on Monday and finish it by Wednesday.
+
+
+
+Not timely: I will finish the LinkedIn Professional skills project.
+
+Timely: I will spend three hours on the LinkedIn Professional skills project tomorrow.
+
+
+
+Not timely: I will read the React Curriculum.
+
+Timely: I will take three days to go through the React Curriculum.
+
+
+
+Now what does it look like when all three aspects of the SAR method are included in one goal? Please see three examples below:
+
+Goal 1: This week I will spend 15 minutes per day practicing English on Duolingo. 
+
+Goal 2: This week I will complete Writing a professional Resume and LinkedIn for review by Tuesday evening. 
+
+Goal 3: This week I will start the React Calculator project by Monday and I will finish milestone one by the end of the day. 
+
+
+
+More resources on SMART goals:
+
 
 
 
