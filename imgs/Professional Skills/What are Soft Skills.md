@@ -124,3 +124,18 @@ Google Calendar lets you add a second time zone, but if you constantly find your
 https://www.youtube.com/watch?v=ico2Pnbk0bw&feature=emb_logo
 
 
+***Share Your Calendar***
+
+There are many free scheduling tools out there that will allow coworkers and friends to drop meetings onto your schedule. One of the easiest ways to do this, though, is just by sharing your calendar with them. Sharing your calendar will allow other people to avoid scheduling conflicts when adding or suggesting meeting times, and is pretty simple to do. Here’s a very detailed tutorial: 
+
+https://www.youtube.com/watch?v=q6rG0CyLeFc&feature=emb_logo
+
+
+***Transform Scheduling Emails Into Calendar Events***
+
+Going back and forth between your email and your calendar can be frustrating and time-consuming. Thankfully, Google offers the ability to turn your emails into calendar events with the click of a button. You may still need to edit some of the event information, such as the date/time, but this feature can be incredibly helpful, and can simplify your organization processes immensely.
+
+
+
+
+
