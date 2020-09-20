@@ -99,3 +99,6 @@ Luckily, Google Calendar knows this, and it allows you to “double-book” time
 Let’s use the example above of a job searching student. This job searching student normally spends two hours between 1:00 PM and 3:00 PM working on coding and project improvements. However, today, the student has a one-hour interview scheduled at 2:00 PM! Instead of deleting their normal “Coding/Project Improvement” event, the student can instead schedule a new event on top of it! Their updated schedule will look like this:
 
 
+***Google Calendar also lets you create multiple calendars***
+
+
