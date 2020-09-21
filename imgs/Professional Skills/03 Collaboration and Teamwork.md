@@ -120,3 +120,32 @@ While you watch, take notes and think about the following questions:
 * What do you agree with? 
 * What do you disagree with?
 * What else would you like to know?
+
+Task#2: Learning about receiving Feedback
+The second step is to learn how to receive feedback. Just like it is difficulties to give feedback, it can also be difficult to receive it. We generally do not like it when people give us feedback so there are a few steps that you can follow to make sure you learn something from the feedback that is given to you. 
+
+
+
+Step 1: Listen. Don’t reply automatically or justify yourself.
+
+Our first reaction with criticism or feedback is often to disapprove or defend ourselves. No matter how many times we get feedback: it will always hurt at first. Take at least one second before responding and remind yourself to be calm.
+
+
+
+Step 2: Be open. No feedback, no improvement.
+
+Feedback gives you the opportunity to improve your skills, your relationships and yourself. You should always approach feedback in a sincere and beneficial manner so that you can learn and grow from it. Keep in mind that it was probably very uncomfortable for this person to step up and give you feedback. Analyze how you can grow from this piece of information. Keep in mind that the person who is giving you feedback might not be very good at doing it, so the message might sound harsher than intended. Don't just reject the feedback because the message was not brought to you well -- there is always something you can learn.
+
+
+Step 3: Ask follow up questions to understand the feedback better.
+
+Try to actively listen. https://www.thebalancecareers.com/want-to-become-a-better-listener-1918650
+Ask questions with curiosity. Try to avoid sounding judgemental and have an open attitude.
+
+Example questions:
+
+Can you say more about what you mean when you say...?
+Can you be more specific about what it means to you, and what your expectations are?
+Can you give specific examples of times when I was / wasn’t...?
+What does it look like to you?
+Can you give examples or suggestions of what you think I can do differently to be more...?
