@@ -149,3 +149,13 @@ Can you be more specific about what it means to you, and what your expectations 
 Can you give specific examples of times when I was / wasn’t...?
 What does it look like to you?
 Can you give examples or suggestions of what you think I can do differently to be more...?
+
+Step 4: Keep in mind that feedback is subjective! It’s always how the other sees you through their lens.
+
+As we said before, there is always something to learn from a piece of feedback. But that doesn't mean that you have to agree with 100% of the feedback that the person gave. Everyone has their own interpretation of a situation so it can also mean that they are missing some information.
+
+For example:
+
+If your manager tells you that they feel like you are not motivated because you have been not as productive. It can be that that week someone in your family is very sick that requires your attention.
+
+Your manager doesn't know that, so you can explain that there was something requiring some of your attention, but that going forward you will communicate better what is happening in your life if it impacts your work.
