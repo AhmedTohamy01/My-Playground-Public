@@ -80,3 +80,17 @@ In order to complete this lesson, please put your message into a Google Doc, and
 
 
 # To-Do:How to Give Feedback (Project: Giving and Receiving Feedback)
+
+***How to Give Positive and Constructive Feedback***
+At Microverse, students work in pairs and teams to learn to code and this brings with it many opportunities to see how each other work up-close. There is great power in learning this way; it’s motivating and gives you access to smart peers every day who are on the same journey you are. But it can also come with difficulties when you find yourself not seeing eye to eye with your partner. Common challenges that come up with Microverse partners—and are similar to the kinds of challenges faced in teamwork at a real job—include:
+
+
+
+* One person insisting there’s only one way to learn things or complete projects and not listening to the other’s opinions
+* One partner getting too competitive or moving too quickly
+* One person not showing up consistently or constantly getting distracted during work time 
+* One person constantly interrupting and talking over their partner
+
+
+Learning to work together and move past these kinds of challenges involves learning to communicate about what works and doesn’t work and finding ways to compromise or get help changing the situation when necessary. An important element of this communication is the ability to give and receive positive and constructive feedback.
+
