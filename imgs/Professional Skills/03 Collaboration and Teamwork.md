@@ -173,3 +173,31 @@ Feedback can save you from possible pitfalls down the road. This person just inv
 https://www.youtube.com/watch?v=6QupnaPvz4Q
 
 
+Assignment: Practicing Giving Positive and Constructive Feedback
+Read the following scenarios, which come from real Microverse students. 
+
+
+
+Scenario 1:  Partner Misses Meetings without Communicating. Sergio is your coding partner. He has missed multiple meetings without any communication beforehand. The reasons are always good reasons for missing, and you understand once he explains, but you are starting to feel like you can't rely on him to show up. You are thinking of letting Student Success know, but first want to give him some feedback to see if he changes his actions.
+
+
+Scenario 2: Partner Rushes and is Overconfident. Lindon had some experience with coding prior to Microverse, and is very confident in his abilities. At first, you learn a lot from him, but with time find that he rushes through the curriculum too quickly. Lately, you notice this is affecting both of your learning because he doesn't dedicate the time needed to learn new things but then thinks he knows more than you because he started out ahead. Give Lindon some feedback about his learning style and how it's impacting your work together. 
+
+
+Now think about how to give Sergio and Lindon positive and constructive feedback. What should they do differently? How can you tell them so, following the best practices for giving constructive feedback? Gather your ideas using the best practices for providing feedback described in the article and videos above. Also be sure to:
+
+ 
+
+* Think about how to be honest, kind, direct and respectful
+* Describe how the behavior is impacting you/your work
+* Suggest changes or steps needed
+* Invite follow up or continued conversation
+
+
+Once you have prepared your feedback, record a video of yourself delivering the feedback to Sergio and Lindon in a constructive way. Spend about 1-2 minutes giving feedback to each person. Please record your feedback to both people in one video.
+
+When you have completed your 2-4 minute video, post it to a video-sharing site such as YouTube, and submit the link using the form below.
+
+Optional: Share your video with your coding partner and ask to watch their video. Then give each other suggestions for improvement and talk about your own preferences for giving and receiving feedback.
+
+
