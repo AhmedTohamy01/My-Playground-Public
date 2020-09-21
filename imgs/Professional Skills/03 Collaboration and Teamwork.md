@@ -94,3 +94,18 @@ At Microverse, students work in pairs and teams to learn to code and this brings
 
 Learning to work together and move past these kinds of challenges involves learning to communicate about what works and doesn’t work and finding ways to compromise or get help changing the situation when necessary. An important element of this communication is the ability to give and receive positive and constructive feedback.
 
+***What is constructive feedback?***
+Feedback is information about how another person is doing their work or communicating with others. It is a conversation in response to another’s actions. Feedback can be about praise, but it can also be about learning. Some people think of feedback as a gift, because it is an opportunity to learn about ourselves and get better. Positive, constructive feedback is:
+
+
+
+* Kind
+* Direct  
+* Honest 
+* Respectful
+* Delivered in private
+
+
+We are all a little afraid of constructive feedback. It can be uncomfortable. We may feel embarrassed, unsure of ourselves, or worse, like a failure. But good, constructive feedback helps us improve, and the more we can learn to give constructive feedback and learn from it when we receive it, the better we will be able to work with all kinds of people. 
+
+
