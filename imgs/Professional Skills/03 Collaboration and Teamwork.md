@@ -159,3 +159,9 @@ For example:
 If your manager tells you that they feel like you are not motivated because you have been not as productive. It can be that that week someone in your family is very sick that requires your attention.
 
 Your manager doesn't know that, so you can explain that there was something requiring some of your attention, but that going forward you will communicate better what is happening in your life if it impacts your work.
+
+
+Step 5: Make sure to distinguish between constructive and destructive feedback.
+
+Constructive feedback is when someone gives you feedback with the goal of improving your behavior. Destructive feedback is when someone gives you feedback with the goal of bringing you down and hurting you as a person.
+
