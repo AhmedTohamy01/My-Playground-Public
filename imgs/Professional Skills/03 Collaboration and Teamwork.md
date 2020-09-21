@@ -165,3 +165,11 @@ Step 5: Make sure to distinguish between constructive and destructive feedback.
 
 Constructive feedback is when someone gives you feedback with the goal of improving your behavior. Destructive feedback is when someone gives you feedback with the goal of bringing you down and hurting you as a person.
 
+
+Step 6: Thank the giver for their feedback!
+
+Feedback can save you from possible pitfalls down the road. This person just invested in you by providing you with feedback so remember to thank them!
+
+https://www.youtube.com/watch?v=6QupnaPvz4Q
+
+
