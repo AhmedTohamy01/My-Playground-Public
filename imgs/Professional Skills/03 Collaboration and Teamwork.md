@@ -109,3 +109,14 @@ Feedback is information about how another person is doing their work or communic
 We are all a little afraid of constructive feedback. It can be uncomfortable. We may feel embarrassed, unsure of ourselves, or worse, like a failure. But good, constructive feedback helps us improve, and the more we can learn to give constructive feedback and learn from it when we receive it, the better we will be able to work with all kinds of people. 
 
 
+Task #1: Learning about Good Feedback
+To learn more about constructive feedback and begin connecting with your own experiences, read the following article, then watch at least two of the four videos referenced in the article. If you aren't sure which to choose, watch the first minute or two of each and then choose (or watch all four if you have time!). 
+
+https://www.inc.com/joe-hirsch/4-ted-talks-from-women-that-will-change-your-relationship-with-feedback.html
+
+While you watch, take notes and think about the following questions:
+
+* What is good feedback according to the speaker?
+* What do you agree with? 
+* What do you disagree with?
+* What else would you like to know?
