@@ -13,7 +13,6 @@ In general, soft skills are attitudes and habits that shape how you work, alone 
 * Reliability
 * Organization
 
-
 At Microverse, we are working every day to build an excellent technical learning experience, but coding languages are not enough; we want you to finish Microverse with excellent soft skills as well. 
 
 
@@ -44,8 +43,6 @@ Jot your ideas down somewhere; you will use them for the assignment at the end o
 
 An important step to begin improving soft skills is to be comfortable looking at our own strengths and weaknesses. Self awareness and understanding are essential for learning to work better with others. As an exercise in understanding yourself better, please complete The 16 Personalities Test: 
 
-  
-
 * Link to the 16 Personalities Test
 https://www.16personalities.com/
 
@@ -59,6 +56,7 @@ https://www.16personalities.com/
 
 
 ***Assignment: Your Strengths and Weaknesses***
+
 To complete this lesson, make a copy of this Google Doc, and answer the questions. Then submit this document in the form below, along with an attachment of the screenshot from your 16 personalities test results.
 
 ﻿For the first three questions, you may find it helpful to refer back to the list of soft skills that you made earlier in the lesson. 
@@ -73,6 +71,7 @@ Managing a Google Calendar can take 10 minutes out of your day, yes--time that y
 Using it is necessary. But there are tips and tricks you can take advantage of that will make using your Google Calendar organization simpler and even more useful. We’ll start with basic organizational strategies, and then discuss some of the cool features Google Calendar offers--features that will hopefully allow you to take control of your schedules, rather than having your schedules control you!
 
 ***Before You Begin***
+
 Before you start diving into tips and tricks, make sure that you fully understand how to use Google Calendar’s core features: scheduling, creating calendars, setting events to repeat, etc. This video https://www.youtube.com/watch?v=1EjJ55BODn0 offers a clear, thorough tutorial on these primary features. If you already feel very confident in your knowledge of Google Calendar, feel free to skip it, but if you would like a refresher (or if you’re not 100% sure how to manage your calendar), we strongly recommend it.
 
 ***Time Blocking: How to Use Google Calendar to Enforce Our Favorite Time Management Strategy***
@@ -80,7 +79,6 @@ Before you start diving into tips and tricks, make sure that you fully understan
 If you’ve ever struggled with time management and done some research online, you may have heard of time blocking. Time blocking is a simple strategy: rather than creating “to-do” lists and checking things off, you’ll instead “block” off specific timeframes on your calendar for specific tasks. Then you stick to those time blocks, even if it means having to pause a task before you’re done in order to move on to the next event.
 
 Microverse already encourages the use of time blocking: you can find your suggested schedule on the student dashboard, and the peer-programming aspect of Microverse helps all students stick to that schedule. As interview prep students and job searchers (and later on as full-time developers), however, you will have to independently structure your own day, and time-blocking offers a huge advantage; in the article linked above, one author actually estimated that time-blocking increased his productivity by 50%.
-
 
 Here’s an example of what a job searching student’s Google Calendar might look like: <img>
 
@@ -97,7 +95,6 @@ Most of us follow a pretty similar schedule on a day to day basis. Most of us al
 Luckily, Google Calendar knows this, and it allows you to “double-book” time slots--that way, you can add one-time-only events without having to re-do your entire schedule.
 
 Let’s use the example above of a job searching student. This job searching student normally spends two hours between 1:00 PM and 3:00 PM working on coding and project improvements. However, today, the student has a one-hour interview scheduled at 2:00 PM! Instead of deleting their normal “Coding/Project Improvement” event, the student can instead schedule a new event on top of it! Their updated schedule will look like this:
-
 
 ***Google Calendar also lets you create multiple calendars***
 
@@ -154,14 +151,12 @@ https://www.youtube.com/watch?v=p1UJdgMVZYE&feature=emb_logo
 
 And if you want to see how this will look for your coworkers, you can watch the implementation here: 
 
-
 https://www.youtube.com/watch?v=ui9iKmFfij4&feature=emb_logo
 
 
 ***Notifications***
 
 We all lose track of time sometimes, even when we’re actively trying to be organized. Luckily, Google Calendar allows you to modify event notifications, giving you the option to receive either emails or popups to let you know 10 minutes, 30 minutes, or even hours or days before an event is scheduled to occur. Not sure how? Here’s a video with detailed instructions: 
-
 
 https://www.youtube.com/watch?v=asxtTNlMNqE&feature=emb_logo
 
@@ -188,24 +183,15 @@ https://www.youtube.com/watch?v=9mBN5QCEJds&feature=emb_logo
 
 Goals help us get work done more efficiently and productively. When you start your day you will be much more effective, productive, and motivated when you have a clear idea of what you want to accomplish.
 
-
-
 A second purpose of goals is to turn big tasks into smaller, more attainable goals.
 
 The goal of "Finishing Microverse" can seem much more overwhelming compared to "finishing the first HTML part of the curriculum."
 
-
-
 Bigger, long term goals, can seem harder and more overwhelming that smaller short term goals. That is why we ask you to make your goals as small as possible.
-
-
 
 So if your goal from your Weekly Retrospective is to "Getting started the React Curriculum". You should use your daily goals to break this into smaller tasks and define what you want to achieve per day. So your goal for Monday can be getting through "Basic Data types" part of the curriculum and your goal for Tuesday can be getting through the "Variables" part of the curriculum
 
-
-
 Setting goals requires you to plan your days and weeks ahead. So you should always take a moment to look at the materials that is expected from you so that you know what is ahead of you and you and you can plan your days.
-
 
 
 How do I decide what goals I want to set?
@@ -215,22 +201,16 @@ When you start a new part of the curriculum, a project, a professional skill or 
 Each week you should have an idea of the specific task that you are trying to achieve. Those tasks should be split into daily steps, which will be your daily goals.
 
 
-
 So how do I set goals?
 
 SMART Goals.
 
 SMART method will help you write your goals in a way that you will be more likely to achieve that goal. SMART stands for Specific, Measurable, Attainable, Relevant and Timely. 
 
-
-
 While all aspects of SMART goals are equally important, right now we will only start with the first three aspects and you will learn about the other two later. Today we will look at the "S", "A" and "T". 
 
 
-
 S: Specific. Your goal should be specific enough so you know exactly what you want to achieve. 
-
-
 
 Examples:
 
@@ -239,17 +219,14 @@ Not specific: I will start the React Calculator project.
 Specific: I will finish milestone one of the React Calculator project.
 
 
-
 Not Specific: I will practice English.
 
 Specific: I will do three Duolingo exercises to practice my English skills. 
 
 
-
 Not Specific: Do Professional skills
 
 Specific: I will complete the "Writing a professional Resume and LinkedIn" for review.
-
 
 
 Not specific: I will be more motivated this week.
@@ -268,12 +245,9 @@ Not achievable: I will study 15 hours per day from now going forward!
 
 Achievable: I will study 3 hours longer per day as I did not finish as planned. I will communicate with my family members or other people at my house to complete house responsibilities at a later time.
 
-
-
 Not achievable: I will become good at English.
 
 Achievable: I will try to improve my English by practicing 15 minutes on Duolingo per day.
-
 
 
 Not achievable: I will work 12 hours straight on the Capstone project and finish the project early.
@@ -281,9 +255,7 @@ Not achievable: I will work 12 hours straight on the Capstone project and finish
 Achievable: I will plan to work 7 hours on the Capstone project on Monday take breaks to make sure my brain is working properly to finish such a difficult project.
 
 
-
 T: Timely. A goal should always include a time because this will give you more structure. Adding a time brings clarity on when you should achieve what. You will know clearly when to start and when to finish.
-
 
 
 Examples: 
@@ -293,17 +265,14 @@ Not timely: I will work on Capstone Project this week.
 Timely: I will start the Capstone project on Monday and finish it by Wednesday.
 
 
-
 Not timely: I will finish the LinkedIn Professional skills project.
 
 Timely: I will spend three hours on the LinkedIn Professional skills project tomorrow.
 
 
-
 Not timely: I will read the React Curriculum.
 
 Timely: I will take three days to go through the React Curriculum.
-
 
 
 Now what does it look like when all three aspects of the SAR method are included in one goal? Please see three examples below:
@@ -313,7 +282,6 @@ Goal 1: This week I will spend 15 minutes per day practicing English on Duolingo
 Goal 2: This week I will complete Writing a professional Resume and LinkedIn for review by Tuesday evening. 
 
 Goal 3: This week I will start the React Calculator project by Monday and I will finish milestone one by the end of the day. 
-
 
 
 More resources on SMART goals:
