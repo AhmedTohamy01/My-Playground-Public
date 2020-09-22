@@ -9,7 +9,7 @@ You've probably used GitHub extensively by this point, and have already read Mic
 
 While your GitHub profile should already have descriptive commits and solid README files, creating a profile strong enough to catch and maintain the interest of recruiters or hiring managers takes a little more work.
 
-Why is a Strong GitHub Profile So Important?
+*Why is a Strong GitHub Profile So Important?*
 
 Your GitHub profile is like your resume in the software world; it gives hiring managers insight into who you are, what you've done, and what you're able to do. You can tell a company that you have skills in React, but if they look at your GitHub and see no React projects, they're not going to believe you. Likewise, you can tell a company that you have good documentation skills,  but if they take a look at your README files and they're messy, disorganized, or incomplete, they're not going to give you a chance to prove them wrong.
 
@@ -18,7 +18,7 @@ In other words, it's vitally important that you put just as much of an effort in
 There are two areas to complete in your profile: the personal profile and the pinned projects. The instructions below will help you fill out each of the following sections on the main section page of your profile:
 
 
-Sidebar/Personal Profile
+*Sidebar/Personal Profile*
 
 * Fill out all sections: your name, email, bio, portfolio, location and company. 
   - Name: Fill out your first and last name. If you have privacy concerns, you can also use your first and last initial.
@@ -41,3 +41,34 @@ Sidebar/Personal Profile
   - In the "Jobs Profile" field, check the box to set yourself available for hire.
 
 * Set your status to indicate that you're Available for Hire or Looking for New Opportunities.
+
+
+*Fill Out a Personal README (optional, but recommended)*
+
+GitHub allows you to create a README file that displays at the top of your GitHub profile above the pinned projects where you can write whatever you want, allowing even more customization of your GitHub profile. This is a fantastic way to promote your work in ways that are more prominent than simply linking to your portfolio or pinning your best projects.
+
+How to create a profile README
+
+Create a new repository with the same name as your GitHub username. (Note this is case-sensitive.)
+Create a README.md file inside the new repo with your custom content.
+Once you commit and push it, it will display on your profile.
+
+You can find a tutorial with some good examples here. 
+https://dev.to/m0nica/how-to-create-a-github-profile-readme-1paj
+
+
+Your personal README should be professional but fun, and should showcase a little bit of your personality along with your knowledge/projects. In general, the best way to use your profile README is to link to projects you've worked on that are not hosted on GitHub, display attractive images/screenshots, and/or display some live updating statistics about your contributions to projects on GitHub.
+
+To see how best to do that, have a look at what other people are doing to decide how best to use your GitHub profile README space. Here are 10 standout GitHub profile READMEs 
+https://dev.to/github/10-standout-github-profile-readmes-h2o
+
+and here's a GitHub repo full of great example profile READMEs to browse through.
+https://github.com/kautukkundan/Awesome-Profile-README-templates
+
+
+If you're looking for even more ideas, possibly check out 3 ways to spice up your GitHub Profile README.
+https://dev.to/jayehernandez/3-ways-to-spice-up-your-github-profile-readme-1276
+
+
+
+
