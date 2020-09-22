@@ -88,5 +88,20 @@ https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/pi
 3) OPTIONAL: Change what languages display on your GitHub projects.
 
 
+Congratulations! Your profile/overview is now done!
+
+
+*A Note on README Files*
+
+Your README files are one of the most important sections of your GitHub portfolio: a good README file will not only show off your projects, but they'll also highlight your documentation skills, your attention to detail, your ability to explain complicated concepts in simple ways, and your willingness to constantly improve. In other words, it's important to put a lot of care and thought into how you create them. Basically: if you're writing a README file in 10 minutes, your README file is probably way too short. 
+
+Starting August 2020, career coaches will no longer be manually reviewing pinned READMEs. However, you should still put the maximum effort possible into writing a good README. Remember:
+
+* Hiring managers read README files; write them as if your future manager is going to be grading you on them. If you really want to impress, then you can also include mockups, diagrams, or even wiki pages or separate Markdown files to describe more difficult projects.
+https://github.com/heartcombo/devise/wiki
+
+* Don't save README files for later! If there's anything worse than having to write one README, it's having to write five of them at once.
+
+* And while you're on GitHub, please review all your stale Pull Requests and Issues and decide whether to close them or proceed to merge/apply.
 
 
