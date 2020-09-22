@@ -70,5 +70,10 @@ If you're looking for even more ideas, possibly check out 3 ways to spice up you
 https://dev.to/jayehernandez/3-ways-to-spice-up-your-github-profile-readme-1276
 
 
+See below for screenshots of GitHub profile READMEs created by Microverse students!
+
+
+*Pinned Projects*
+
 
 
