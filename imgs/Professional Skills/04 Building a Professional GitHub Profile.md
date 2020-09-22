@@ -15,6 +15,29 @@ Your GitHub profile is like your resume in the software world; it gives hiring m
 
 In other words, it's vitally important that you put just as much of an effort into creating a strong GitHub profile as you do into creating strong projects or strong resumes. The first step is making sure that you complete all sections. 
 
-
 There are two areas to complete in your profile: the personal profile and the pinned projects. The instructions below will help you fill out each of the following sections on the main section page of your profile:
 
+
+Sidebar/Personal Profile
+
+* Fill out all sections: your name, email, bio, portfolio, location and company. 
+  - Name: Fill out your first and last name. If you have privacy concerns, you can also use your first and last initial.
+  - Company: In the "company" section, you may write Freelance Full-stack Developer
+  - Location: List your country. You do not need to give detailed location information, such as city or state, unless you want to.
+  - Bio: Your bio field should be 2-3 sentences of jam-packed information. Include your preferred stack, how many years of experience you have (if more than 1), and state that you're currently looking for new opportunities.
+  - Email: Fill in your email address; it will not be visible to those without accounts.
+  - Portfolio: If you have a portfolio, list it here. You may not have created a portfolio yet, in which case you might not have a link to add to the URL field. For now, you can leave it blank, or insert your LinkedIn URL instead. However, once you create your portfolio, go back to your GitHub and add the URL.
+
+* Add a professional profile photo.
+  - If you don't have a professional photo yet, don't worry—you'll be taking one later on in the Professional Skills curriculum. For now, use a photo that looks friendly, and replace it with a professional photo as soon as you complete the Photo task.
+  - Remember that your photo is probably going to be one of the first impressions a hiring manager has of you: even if you plan on replacing your photo later, choose a photo that looks tidy, high-quality, and nice.
+
+* Include private contributions in your profile.
+  - In "Contributions," check the box in order to include your private contributions in the profile.
+  - Note that this will not make your private projects public. It will merely show that you were coding on a private project that day and help keep your profile looking active.
+
+
+* Jobs Profile
+  - In the "Jobs Profile" field, check the box to set yourself available for hire.
+
+* Set your status to indicate that you're Available for Hire or Looking for New Opportunities.
