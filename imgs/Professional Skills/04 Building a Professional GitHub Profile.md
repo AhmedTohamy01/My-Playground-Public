@@ -75,5 +75,18 @@ See below for screenshots of GitHub profile READMEs created by Microverse studen
 
 *Pinned Projects*
 
+https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/pinning-items-to-your-profile
+
+1) Start pinning your most complete/complex repositories to your profile. 
+- The goal is to have six repositories pinned, and to showcase a range of technologies in your pinned projects. In other words, your GitHub should eventually have pinned repositories showcasing skills in React, Ruby, HTML/CSS, JavaScript, etc. Unless you have previous developer experience, right now you may only have one or two basic HTML projects. That's fine! However, going forward, start pinning projects that use a range of technologies.
+- A note about pinning open source projects you contributed to: The pinning feature will also let you pin projects that you contributed to but do not own. You should use this feature if you have made a significant contribution to a notable project, but be careful not to mislead people into into thinking you're a major contributor to significant open source project unless you actually are.
+- Examples of open source contributions to pin or not to pin: if you implemented a significant feature in a popular JS framework; especially if you've gotten multiple separate commits into the project, go ahead and list it. However if your contribution was relatively minor (e.g. fixing a minor bug in React or adding some documentation), then you probably shouldn't pin that project because it might mislead employers into thinking you're a core contributor to the project.
+- If your open source contribution was too minor to pin: Unfortunately GitHub does not have an easy way to let you brag about making small but noteworthy contributions to major projects via the pinning system, so in lieu of that we recommend instead that you brag about those kinds of contributions on your resume, LinkedIn, AngelList, portfolio and other places where you can describe what your contributions were to these major projects in greater detail with more context.
+
+2) Star your friends’ and mentor’s profile and repositories and ask them to star yours.
+
+3) OPTIONAL: Change what languages display on your GitHub projects.
+
+
 
 
