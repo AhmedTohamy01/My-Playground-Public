@@ -29,7 +29,7 @@ function test(arr) {
 
 console.log(test(arr));
 
-
+// Pseudo code:
 // - we set counter for the pairs and set it to 0.
 // - we sort the array.
 // - we start from 1st item & compare each item to next item
