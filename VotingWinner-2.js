@@ -1,5 +1,5 @@
 let votes = 
-['mona','ahmed', 'ahmed', 'ahmed', 'mona', 'noha', 'marwa', 'marwa', 'marwa', 'jomana', 'hala', 'noor', 'noor']
+['mona','ahmed', 'ahmed', 'ahmed', 'mona', 'noha', 'marwa', 'marwa', 'marwa', 'jomana', 'hala', 'noor', 'noor' ]
 
 // ahmed 3 , marwa 3 , mona 2, noor 2, jomana 1, hala 1
 console.time()
@@ -32,16 +32,16 @@ function winner() {
               acc.push(item.name);
             }
             return acc
-          },[]);
+          },[]).sort();
 
           if (finalWinner.length === 1) {
-            finalWinner = finalWinner;
+            finalWinner = finalWinner[0];
           } else {
-            finalWinner = [finalWinner[finalWinner.length - 1]]
+            finalWinner = finalWinner[finalWinner.length - 1]
           };
 
-  console.log(finalWinner);
+  return finalWinner;
 }
 
-winner();
+console.log(winner());
 console.timeEnd()
