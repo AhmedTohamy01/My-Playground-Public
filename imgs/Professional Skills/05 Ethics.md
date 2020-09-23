@@ -9,3 +9,9 @@ However, with the Internet making access to information and content easier than 
 
 The point of Microverse is to learn coding languages and be able to take on new problems in future jobs using code. This is not possible unless you put in the time and make the effort to learn, day-by-day. In this lesson, we consider why honesty is important, why it can be hard to be honest at times, and how the ethics of working honestly and gaining colleagues' trust include not only telling the truth, but making an effort daily to develop a strong worth ethic. 
 
+
+***Why is honesty important?***
+
+Michael Josephson, a wise expert on ethics in the workplace, once said that "honesty doesn't always pay, but dishonesty always costs.” What did he mean? Being the person working honestly may mean more effort, it may mean things take longer or cost more. When things are really difficult—as a student, in the workplace—cheating can feel like an easy way to get to the end goal faster. But as Josephson says, it always has a cost. It will leave you not understanding the content fully as a student. It could get you fired from a job if discovered in the workplace, or worse if the dishonesty extends to something illegal.
+
+
