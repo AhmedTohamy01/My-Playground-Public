@@ -30,3 +30,20 @@ After watching the videos, spend a few minutes reflecting on what you learned an
 * Why do people do dishonest things at work?
 * What makes honesty powerful?
 * What might motivate you to be dishonest at work?
+
+
+***How to Develop a Strong Work Ethic***
+
+For companies, it's important to have employees who follow company policies, do what they say they'll do, and behave honestly in their jobs. For individuals, it's important to be able to trust colleagues will show up and follow through on what is expected of them as best as possible. Being someone who is reliable and trustworthy in these ways is about having a strong work ethic.
+
+How are honesty and work ethic related? Honesty is needed to build trust, and the reasons people choose dishonesty can be avoided by having a strong work ethic. What does it mean to have a strong work ethic? How do you develop one?
+
+*Task #2: How to develop a good work ethic?*
+
+Read/watch the following perspectives on what it means to have a good work ethic, and how you can work on improving yours.
+
+https://medium.com/@the_manifest/how-can-companies-encourage-ethics-in-the-workplace-5c36318e98a4
+
+https://www.youtube.com/watch?v=F3sLNIuLPHk&feature=youtu.be
+
+
