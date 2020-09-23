@@ -1,5 +1,9 @@
-let arr = ['yellow', 'red', 'green'];
+let user = {
+    f: 'ahmed',
+    l: 'tohamy',
+    c: 'cairo'
+}
 
-let [color1, color2, color3] = arr
+let {f: firstName,l: lastName,c: city} = user
 
-console.log(color1);
+console.log(city);
