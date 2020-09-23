@@ -1,11 +1,9 @@
-let num = { number: 5}
-
-function test(num) {
-  num.number++;
-  return num.number;
-}
-console.log(test(num));
-console.log(num.number);
 
 
-// test(num);
+
+
+let arr = [1,2,3,4,5]
+
+let arr2 = arr.reduce((acc, item) => {return acc = acc + item}, 0)
+
+console.log(arr2);
