@@ -1,9 +1,11 @@
-let num = 5;
+let num = { number: 5}
 
 function test(num) {
-    num = num + 1;
-    return num
+  num.number++;
+  return num.number;
 }
-
-console.log(num);
 console.log(test(num));
+console.log(num.number);
+
+
+// test(num);
