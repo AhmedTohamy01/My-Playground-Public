@@ -1,9 +1,9 @@
+fetch('https://api.thecatapi.com/v1/images/search')
+.then((fetchedData) => fetchedData.json);
 
+console.log(fetchedData.json);
 
-
-
-let arr = [1,2,3,4,5]
-
-let arr2 = arr.reduce((acc, item) => {return acc = acc + item}, 0)
-
-console.log(arr2);
+fetch('https://jsonplaceholder.typicode.com/posts/1')
+.then( (fetchedData) => {return fetchedData.json()})
+.then( (jsonData) => {console.log(jsonData)})
+.catch((error) => {console.log(error)});
