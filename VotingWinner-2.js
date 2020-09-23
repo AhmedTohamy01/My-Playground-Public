@@ -1,5 +1,5 @@
 let votes = 
-['mona','ahmed', 'ahmed', 'ahmed', 'mona', 'noha', 'marwa', 'marwa', 'marwa', 'jomana', 'hala', 'noor', 'noor', ]
+['mona','ahmed', 'ahmed', 'ahmed', 'mona', 'noha', 'marwa', 'marwa', 'marwa', 'jomana', 'hala', 'noor', 'noor']
 
 // ahmed 3 , marwa 3 , mona 2, noor 2, jomana 1, hala 1
 console.time()
