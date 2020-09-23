@@ -1,9 +1,2 @@
-let user = {
-    f: 'ahmed',
-    l: 'tohamy',
-    c: 'cairo'
-}
+console.log(0.1 + 0.2);
 
-let {f: firstName,l: lastName,c: city} = user
-
-console.log(city);
