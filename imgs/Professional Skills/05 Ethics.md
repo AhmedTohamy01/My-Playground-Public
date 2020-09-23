@@ -47,3 +47,36 @@ https://medium.com/@the_manifest/how-can-companies-encourage-ethics-in-the-workp
 https://www.youtube.com/watch?v=F3sLNIuLPHk&feature=youtu.be
 
 
+***Assignment: Ethics Profile***
+
+In this lesson we have mostly considered ideas around honesty in general, and honesty while studying to be a software developer. But honesty in the workplace is universal. All professions have ethics and definitions of what it means to have a good work ethic. For this assignment, you will interview someone someone in your life about ethics in their profession, and write a brief profile based on the conversation. 
+
+Who to Interview: You can interview anyone! If you know someone who already works as a software engineer, this would be especially valuable, but any profession will do. What's important is that it be someone you respect, preferably with at least 5-10 years work experience (more years is better!). Ideas include:
+
+* A family member (parents, grandparents, siblings, an aunt or uncle)
+* A community member
+* Someone you know from school or work
+
+
+What to ask: Write 5-10 questions to ask this person. We provide you with some ideas for questions to get you started, but feel free to ask them anything you like related to honesty and work ethics in their profession.
+
+* What does honesty mean in your profession? 
+* What does it mean to have a strong work ethic?
+* Have you ever done anything dishonest at work? 
+* Do you know anyone else who has ever done something dishonest? What happened and how did people find out?
+
+
+How to capture the conversation: Once you have your questions, have a 15-20 minute conversation with this person, using the questions as a guide. Make sure you record it somehow, for example through a voice recording, video recording, or by taking notes. Make sure to ask for permission if you are voice or video recording your conversation! (It's illegal to record someone without consent!)
+
+Writing your ethics profile: The final task in this lesson is to write a short (200 word) essay about the person you interviewed. What did you learn? How does it connect to what you learned in this lesson? Make sure that your profile:
+
+* Is at least 200 words 
+* Describes the person you interviewed with relevant details (e.g., age, years of work experience, profession, position, education, location, relationship to you)
+* Connects to material from this lesson (remember you have your notes from earlier in the lesson)
+* Uses direct quotes from the person you interviewed
+
+As always, use best practices for checking your writing and making improvements before submitting:
+
+* Check grammar using Grammarly or a similar tool
+* Ask your coding partner, mentor or another friend to read and give you feedback if you can
+* For this assignment you can also show the person you interviewed (if they speak English) and get their feedback as well!
