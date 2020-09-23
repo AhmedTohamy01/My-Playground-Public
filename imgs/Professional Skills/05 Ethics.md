@@ -15,3 +15,18 @@ The point of Microverse is to learn coding languages and be able to take on new 
 Michael Josephson, a wise expert on ethics in the workplace, once said that "honesty doesn't always pay, but dishonesty always costs.” What did he mean? Being the person working honestly may mean more effort, it may mean things take longer or cost more. When things are really difficult—as a student, in the workplace—cheating can feel like an easy way to get to the end goal faster. But as Josephson says, it always has a cost. It will leave you not understanding the content fully as a student. It could get you fired from a job if discovered in the workplace, or worse if the dishonesty extends to something illegal.
 
 
+*Task #1. Why does honesty in the workplace matter?*
+
+It may seem obvious to say honesty is important. Of course we shouldn't cheat! But when it comes to the day-to-day of working it can feel less clear. There might be difficult moments where you don't know what you're doing. There may be tempting opportunities to cut corners or cheat that don't seem like they would hurt anyone. Especially when people are new to something, they may feel overwhelmed and decide cheating feels easier. Watch the following two videos to learn more about different perspectives on why honesty in the workplace is important, and how it can be difficult at times. 
+
+
+https://www.youtube.com/watch?v=Qhomjw2P-V0
+
+https://www.youtube.com/watch?v=HkFZygMF3Rs&feature=youtu.be
+
+
+After watching the videos, spend a few minutes reflecting on what you learned and answering the following questions. Keep your notes somewhere you can refer to them for the final assignment.
+
+* Why do people do dishonest things at work?
+* What makes honesty powerful?
+* What might motivate you to be dishonest at work?
