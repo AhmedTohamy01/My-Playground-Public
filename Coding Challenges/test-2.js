@@ -4,4 +4,3 @@ let sortQ = q.sort();
 
 console.log(q.indexOf(1));
 
-console.log(sortQ)
