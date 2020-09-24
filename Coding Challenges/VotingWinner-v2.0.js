@@ -16,6 +16,7 @@ function winner() {
          return {name: item, score: 0};
         });
         
+        console.log(winners);
         winners.reduce((acc, item) => {
             for (let i = 0; i < votes.length; i++) {
               if (item.name === votes[i]) {
@@ -24,6 +25,9 @@ function winner() {
             }
             return acc;  
           }, []);
+
+          console.log(winners);
+
 
           let winScore = Math.max(...winners.map((item) => item.score));
 
