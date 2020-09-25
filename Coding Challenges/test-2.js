@@ -9,7 +9,6 @@ let sortArr = [...arr].sort();
 
 let min = Math.min(...arr);
 
-let newArr = [];
 
 
 
