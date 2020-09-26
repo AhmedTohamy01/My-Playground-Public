@@ -1,16 +1,6 @@
-let arr = [7, 1, 3, 2, 4, 5, 6];
+// check if the item in the array bigger than the next item, if it's bigger put it in variable "bigNum"
 
-let sortArr = [...arr].sort();
+// find the smallest number in the remaining items and put it in variable "smallNum"
 
-let min = Math.min(...arr);
-
-let newArr = [];
-
-for (let i = 0; i < arr.length; i++) {
-  
-}
-
-
-
-console.log(min);
+// switch the positions of bigNum & smallNum and increase the counter.
 
