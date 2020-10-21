@@ -33,3 +33,4 @@ console.log(hourGlass());
 
 // Pseudo code:
 // - We should create a for loop to loop over the 2 layers of the array and get the item which can build
+//   the "glasshour" diagram.
