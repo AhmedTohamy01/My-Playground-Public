@@ -35,4 +35,3 @@ console.log(hourGlass());
 // - We should create a for loop to loop over the 2 layers of the array and get the item which can build
 //   the "glasshour" diagram.
 // - then we get the sum of these items.
-// - then we create an empty array, and push all the sums of each loop in this array.
