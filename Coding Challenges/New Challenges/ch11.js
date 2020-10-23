@@ -37,3 +37,4 @@ console.log(hourGlass());
 // - then we get the sum of these items.
 // - then we create an empty array, and push all the sums of each loop in this array.
 // - then we use Math.max to get the maximum number in the array.
+// ..........................
